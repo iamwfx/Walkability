@@ -162,7 +162,11 @@ footer .info {
   height: 93%;
   background-color: #fff;
 }
-
+#div4 {
+  width: 100%;
+  height: 93%;
+  background-color: #fff;
+}
 #overlay {
  fill: None;
  stroke: #ff00ff;
